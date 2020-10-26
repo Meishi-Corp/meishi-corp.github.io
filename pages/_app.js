@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import '../styles.scss'
+import '../styles/globals.scss'
 
 export default function MyApp({ Component, pageProps }) {
   return (
@@ -13,7 +13,7 @@ export default function MyApp({ Component, pageProps }) {
         />
         <meta name="description" content="Description" />
         <meta name="keywords" content="Keywords" />
-        <title>Next.js PWA Example</title>
+        <title>Meishi corporation</title>
 
         <link rel="manifest" href="/manifest.json" />
         <link
