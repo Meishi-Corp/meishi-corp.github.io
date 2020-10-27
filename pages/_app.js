@@ -11,7 +11,7 @@ export default function MyApp({ Component, pageProps }) {
           name="viewport"
           content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"
         />
-        <meta name="description" content="Description" />
+        <meta name="description" content="Connect People and Business - without contact -" />
         <meta name="keywords" content="Keywords" />
         <title>Meishi corporation</title>
 

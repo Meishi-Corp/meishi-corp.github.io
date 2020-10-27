@@ -1,12 +1,12 @@
 import Main from '../components/Main'
 import Footer from '../components/Footer'
-import styles from '../components/main.module.scss'
+import Description from '../components/Description'
+import Picture from '../components/Picture'
 
 export default function Home() {
   return (
-    <div className={styles.container} >
-      <Main />
-      <Footer />
-    </div>
+    <>
+      <Main description={<Description />} image={<Picture />} footer={<Footer />} />
+    </>
   )
 }
