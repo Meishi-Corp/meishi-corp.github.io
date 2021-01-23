@@ -1,0 +1,53 @@
+{
+  "name": "Meishi - Smart Business cards",
+  "short_name": "Meishi - Smart Business cards",
+  "theme_color": "#ffffff",
+  "background_color": "#004740",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "meishi.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "meishi.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "meishi.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "meishi.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "meishi.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "meishi.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "meishi.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "meishi.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
