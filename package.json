@@ -7,7 +7,7 @@
     "clean": "rm -rf .next",
     "build": "next build",
     "start": "next start",
-    "deploy": "push-dir --dir=out/ --branch=gh-pages --cleanup"
+    "deploy": "rm -rf node_modules/.cache && next build && next export && push-dir --dir=out/ --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "next": "latest",
